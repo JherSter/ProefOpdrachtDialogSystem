@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<wrapper>
+<page number = "0">
+<name>Mark</name>
+    <dialogue>Wanna buy some rum?</dialogue>
+    <answers>That will be 90 gold</answers>
+    <farwell>OK bye</farwell>
+</page>
+
+
+<page number ="1">
+    <name>Piet</name>
+    <dialogue>Wanna buy some water?</dialogue>
+    <answers>That will be 60 gold</answers>
+    <farwell>OK bye</farwell>
+</page>
+</wrapper>
